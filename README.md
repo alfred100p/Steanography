@@ -4,7 +4,7 @@ Code to add hidden messages to images. Inspired by my college Image Processing c
 <br>
 <br>
 <h3>Example</h3>
-|||||||||||||||||||||||||||| Original Image |||||||||||||||||||||| ||||||||||||||||||||||| Modified Image |||||||||||||||||||||||| |||||||||||||||||||||||| Secret Code ||||||||||||||||||||||||
+|||||||||||||||||||||||| Original Image ||||||||||||||||||| ||||||||||||||||||| Modified Image ||||||||||||||||||||| |||||||||||||||||||| Secret Code |||||||||||||||||||||
 <p float="left">
     <img src="test_image.png" alt="Original Image" width=270>
     <img src="modified_image.png" alt="Modified Image" width=270>
